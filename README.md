@@ -1,1 +1,1 @@
-![IMG] (img/preview.png)
+![IMG!] (img/preview.png)
